@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm lsnnt</h1>
+<h3 align="center">🐍 Python Developer | Automation & Problem Solving</h3>
 
-<!--
-**lsnnt/lsnnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lsnnt&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🐍 Python 3 enthusiast
+- ⚙️ Interested in automation, scripting, and backend logic
+- 🌱 Always learning better ways to write clean, efficient code
+- ☕ Powered by curiosity and coffee
+
+---
+
+## 🛠 Tech Stack
+**Primary Language**
+```
+Python 3
+```
+
+**Tools & Libraries**
+```
+• Git • Linux • Virtualenv • Requests • Flask • FastAPI •
+```
+
+---
+
+## 🧩 What I’m Focusing On
+- Writing **clean Python**
+- Improving **performance & readability**
+- Exploring **backend architecture**
+
+---
+
+## ⭐ Support
+If you find my projects useful, consider giving them a ⭐  
+It helps a lot!
+you can also sponsor me 🥹
