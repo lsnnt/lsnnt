@@ -30,6 +30,7 @@ Python 3
 
 ## 🧩 What I’m Focusing On
 - Writing **clean Python**
+- Learning **Rust**
 - Improving **performance & readability**
 - Exploring **backend architecture**
 
