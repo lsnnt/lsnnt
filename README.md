@@ -42,5 +42,5 @@ It helps a lot!
 
 ---
 ## Random meme
-<img src="https://xkcd.fustin.top/" alt="xkcd meme" /> 
+<img src="https://xkcd1.fustin.top/?temp=lsnnt" />
 Meme by https://xkcd.com/
