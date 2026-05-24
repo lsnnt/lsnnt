@@ -39,4 +39,8 @@ Python 3
 ## ⭐ Support
 If you find my projects useful, consider giving them a ⭐  
 It helps a lot!
-you can also sponsor me 🥹
+
+---
+## Random meme
+<img src="https://xkcd.fustin.top/" alt="xkcd meme" /> 
+Meme by https://xkcd.com/
