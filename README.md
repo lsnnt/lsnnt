@@ -44,3 +44,10 @@ It helps a lot!
 ## Random meme
 <img src="https://xkcd1.fustin.top/?temp=lsnnt" />
 Meme by https://xkcd.com/
+
+---
+## My recently played songs (updated realtime)
+<img src="https://spotify.fustin.top/?temp=lsnnt" />
+Banner made using github.com/lsnnt/spotify-banner-for-github 
+Fork it contribute on it improve it.
+
