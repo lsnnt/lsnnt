@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nityanand Thakur</h1>
-<h3 align="center">🐍 Python Developer | Automation & Problem Solving</h3>
+<h3 align="center">SRE / Infra / Security-leaning Systems Engineer • B.Tech CSE @ VIT Vellore '26</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lsnnt&label=Profile%20Views&color=blue&style=flat" />
@@ -7,38 +7,29 @@
 
 ---
 
-## 🧠 About Me
-- 🐍 Python 3 enthusiast
-- ⚙️ Interested in automation, scripting, and backend logic
-- 🌱 Always learning better ways to write clean, efficient code
-- ☕ Powered by curiosity and coffee
+### 🧭 About me 
+- 🎓 B.Tech CSE, VIT Vellore (2028)
+- 🛠️ Building systems from the metal up — kernels, BGP, and backend services
+- 🎯 Targeting SRE / Infrastructure / Security roles
+- ✒️ Off-keyboard: fountain pens & cooking
 
 ---
 
 ## 🛠 Tech Stack
 **Primary Language**
 ```
-Python 3
+Go | Rust | Python | C++ | Java
 ```
 
-**Tools & Libraries**
+**Infra and systems**
 ```
-• Git • Linux • Virtualenv • Requests • Flask • FastAPI •
+Docker | KVM/QEMU | Wireguard | Bird/BGP | CI/CD pipelines
 ```
 
----
-
-## 🧩 What I’m Focusing On
-- Writing **clean Python**
-- Learning **Rust**
-- Improving **performance & readability**
-- Exploring **backend architecture**
-
----
-
-## ⭐ Support
-If you find my projects useful, consider giving them a ⭐  
-It helps a lot!
+**Security / RE**
+```
+Frida | Burp Suite | sqlmap
+```
 
 ---
 ## Random meme
@@ -51,3 +42,8 @@ Meme by https://xkcd.com/
 Banner made using github.com/lsnnt/spotify-banner-for-github 
 Fork it contribute on it improve it.
 
+
+### 📫 Reach Me
+[Portfolio](https://lsnnt.dev)
+[Blogs](https://blog.lsnnt.dev/)
+[Email](mailto:tnityanand523@gmail.com)
