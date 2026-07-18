@@ -42,6 +42,8 @@ Meme by https://xkcd.com/
 Banner made using github.com/lsnnt/spotify-banner-for-github 
 Fork it contribute on it improve it.
 
+## Random Cat pic
+<img src="https://cat.fustin.top/?temp=lsnnt" />
 
 ### 📫 Reach Me
 [Portfolio](https://lsnnt.dev)
